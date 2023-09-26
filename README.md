@@ -16,8 +16,7 @@
 <hr></hr>
 
 ## Contact me
-[![Logo Instagram](.jpg)](https://www.instagram.com/votre_nom_utilisateur_instagram/)![image](https://github.com/BiigSaam/BiigSaam/assets/113522143/ec9f4355-1522-4a42-b38c-6fbcb8db2dc8)
-
+<img src="png-logo-instagram.png" alt="logo instagram"></img>
 
 <hr></hr>
 
