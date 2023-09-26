@@ -16,7 +16,7 @@
 <hr></hr>
 
 ## Contact me
-      <i class="ci ci-spotify ci-2x"></i>
+      ![My Skills](https://skillicons.dev/icons?i=instagram)
 <hr></hr>
 
 - 👀 I’m interested in web coding
