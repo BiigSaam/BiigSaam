@@ -3,11 +3,11 @@
 
 <hr></hr>
 
-<h2>Programming languages that I know</h2>
+## Programming languages that I know
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,py)
 <hr></hr>
 
-<h2>Programming languages in the process of learning</h2>
+## Programming languages in the process of learning
 <hr></hr>
 
 <h2>Contact me</h2>
