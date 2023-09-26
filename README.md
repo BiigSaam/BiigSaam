@@ -16,7 +16,7 @@
 <hr></hr>
 
 ## Contact me
-![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,aws,git,figma,xd)
+![My Skills](https://skillicons.dev/icons?i=instagram)
 <hr></hr>
 
 - 👀 I’m interested in web coding
