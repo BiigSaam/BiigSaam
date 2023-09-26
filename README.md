@@ -17,6 +17,8 @@
 
 ## Contact me
 ![image](https://github.com/BiigSaam/BiigSaam/assets/113522143/91b6d28a-92f8-4448-89c5-0f8989d28e6b)
+![image](https://github.com/BiigSaam/BiigSaam/assets/113522143/ec9f4355-1522-4a42-b38c-6fbcb8db2dc8)
+
 
 <hr></hr>
 
