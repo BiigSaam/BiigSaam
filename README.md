@@ -16,7 +16,9 @@
 <hr></hr>
 
 ## Contact me
-<img src="png-logo-instagram.png" alt="logo instagram"></img>
+📫 How to reach me :
+      - by instagram : @Samad_ab2
+      - by mail : absamad938@gmail.com
 
 <hr></hr>
 
