@@ -4,10 +4,11 @@
 <hr></hr>
 
 ## Programming languages that I know
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,py,react,nodejs,sass)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,py,react,sass)
 <hr></hr>
 
 ## Programming languages in the process of learning
+![My Skills](https://skillicons.dev/icons?i=kotlin,vue)
 <hr></hr>
 
 <h2>Contact me</h2>
