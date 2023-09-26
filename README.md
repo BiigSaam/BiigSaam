@@ -10,9 +10,8 @@
 <hr></hr>
 
 <h2>Contact me</h2>
-📫 How to reach me :
-      - by instagram : @Samad_ab2
-      - by mail : absamad938@gmail.com
+      <p>- by instagram : @Samad_ab2</p>
+      <p>- by mail : absamad938@gmail.com</p>
 <hr></hr>
 
 - 👀 I’m interested in web coding
