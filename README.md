@@ -16,8 +16,7 @@
 <hr></hr>
 
 ## Contact me
-      ![image](https://github.com/BiigSaam/BiigSaam/assets/113522143/3d919b63-2038-4aad-907d-0d528d1a5ae4)<p>: @Samad_ab2</p>
-      <p>- by mail : absamad938@gmail.com</p>
+      ![image](https://github.com/BiigSaam/BiigSaam/assets/113522143/3d919b63-2038-4aad-907d-0d528d1a5ae4)
 <hr></hr>
 
 - 👀 I’m interested in web coding
