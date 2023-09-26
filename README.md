@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BiigSaam
+<h1>👋 Hi, I’m @BiigSaam</h1>
 - 👀 I’m interested in web coding
 - 🌱 I’m currently learning html/css, javascript, php, Mysql and C
 - 💞️ I’m looking to collaborate on team work in many scripts
