@@ -16,7 +16,7 @@
 <hr></hr>
 
 ## Contact me
-      <a href="" class="fa fa-instagram"></a>
+      <i class="ci ci-spotify ci-2x"></i>
 <hr></hr>
 
 - 👀 I’m interested in web coding
