@@ -9,6 +9,12 @@
 <h2>Programming languages in the process of learning</h2>
 <hr></hr>
 
+<h2>Contact me</h2>
+📫 How to reach me :
+-      - by instagram : @Samad_ab2
+-      - by mail : absamad938@gmail.com
+<hr></hr>
+
 - 👀 I’m interested in web coding
 - 🌱 I’m currently learning html/css, javascript, php, Mysql and C
 - 💞️ I’m looking to collaborate on team work in many scripts
