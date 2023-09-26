@@ -4,9 +4,10 @@
 <hr></hr>
 
 <h2>Programming languages that I know</h2>
+<hr></hr>
 
 <h2>Programming languages in the process of learning</h2>
-
+<hr></hr>
 
 - 👀 I’m interested in web coding
 - 🌱 I’m currently learning html/css, javascript, php, Mysql and C
