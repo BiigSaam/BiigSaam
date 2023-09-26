@@ -11,6 +11,10 @@
 ![My Skills](https://skillicons.dev/icons?i=kotlin,vue)
 <hr></hr>
 
+## Technology that I use 
+![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,aws,git,figma,xd)
+<hr></hr>
+
 <h2>Contact me</h2>
       <p>- by instagram : @Samad_ab2</p>
       <p>- by mail : absamad938@gmail.com</p>
