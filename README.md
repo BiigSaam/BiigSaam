@@ -17,7 +17,8 @@
 
 ## Contact me
 📫 How to reach me :
-      <p>- by instagram : @Samad_ab2</p>
+      <p>- by linkedin : <a src="https://www.linkedin.com/in/abdul-samad-4326361aa/">Samad Abdul</a></p>
+      <p>- by instagram : <a src="https://www.instagram.com/samad_ab2/">@Samad_ab2</a></p>
       <p>- by mail : absamad938@gmail.com</p>
 
 <hr></hr>
