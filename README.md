@@ -11,8 +11,8 @@
 
 <h2>Contact me</h2>
 📫 How to reach me :
--      - by instagram : @Samad_ab2
--      - by mail : absamad938@gmail.com
+      - by instagram : @Samad_ab2
+      - by mail : absamad938@gmail.com
 <hr></hr>
 
 - 👀 I’m interested in web coding
