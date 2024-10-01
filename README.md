@@ -1,10 +1,10 @@
 <h1>👋 Hi, I’m @BiigSaam</h1>
-<p>I'm a student in 3rd year of web coding. I'm looking for a 1-year work-study placement as a front-end developer for October 2023.</p>
+<p>I'm a student in 4th year of web coding. I'm looking for a 2-year work-study placement as a full-stack developer for October 2024.</p>
 
 <hr></hr>
 
 ## Programming languages that I know
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,py,react,sass)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,py,react,angular,sass)
 <hr></hr>
 
 ## Programming languages in the process of learning
