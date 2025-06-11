@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m @BiigSaam</h1>
-<p>I'm a student in 4th year of web coding. I'm looking for a 2-year work-study placement as a full-stack developer for December 2024.</p>
+<p>I'm a student in 4th year of web coding. I'm looking for a 1-year work-study placement as a full-stack developer for July 2025.</p>
 
 <hr></hr>
 
