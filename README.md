@@ -8,7 +8,7 @@
 <hr></hr>
 
 ## Programming languages in the process of learning
-![My Skills](https://skillicons.dev/icons?i=kotlin,vue)
+![My Skills](https://skillicons.dev/icons?i=nativereact,vue)
 <hr></hr>
 
 ## Technology that I use 
