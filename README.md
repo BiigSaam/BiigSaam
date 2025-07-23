@@ -4,7 +4,7 @@
 <hr></hr>
 
 ## Programming languages that I know
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,react,next,sass)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,react,next,sass,bootstrap,twig,node)
 <hr></hr>
 
 ## Programming languages in the process of learning
@@ -29,7 +29,7 @@
 - 📫 How to reach me :
 -      - by instagram : @Samad_ab2
 -      - by mail : absamad938@gmail.com
--  💻 I've create my blogsite, you can visit : https://a-samad.alwaysdata.net/ 
+-  💻 I've create my blogsite, you can visit : https://portfolio-samadabdul.netlify.app/
 
 <!---
 BiigSaam/BiigSaam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
