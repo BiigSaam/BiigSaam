@@ -4,15 +4,15 @@
 <hr></hr>
 
 ## Programming languages that I know
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,react,next,sass,bootstrap,twig)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,symfony,mysql,postgres,prisma,supabase,react,next,express,sass,bootstrap,docker,terraform,wordpress,webflow)
 <hr></hr>
 
 ## Programming languages in the process of learning
-![My Skills](https://skillicons.dev/icons?i=reactnative,vue)
+![My Skills](https://skillicons.dev/icons?i=flutter,nestjs,vue,azure,dotnet)
 <hr></hr>
 
 ## Technology that I use 
-![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,aws,git,figma,xd)
+![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,vscode,nodejs,aws,git,vercel,netlify,figma,xd)
 <hr></hr>
 
 ## Contact me
