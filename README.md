@@ -4,7 +4,7 @@
 <hr></hr>
 
 ## Programming languages that I know
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,react,next,sass,bootstrap,twig,node)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,react,next,sass,bootstrap,twig)
 <hr></hr>
 
 ## Programming languages in the process of learning
