@@ -4,7 +4,7 @@
 <hr></hr>
 
 ## Programming languages that I know
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,py,react,angular,sass)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,react,next,sass)
 <hr></hr>
 
 ## Programming languages in the process of learning
@@ -19,7 +19,7 @@
 📫 How to reach me :
       <p>- by linkedin : <a src="https://www.linkedin.com/in/abdul-samad-4326361aa/">Samad Abdul</a></p>
       <p>- by instagram : <a src="https://www.instagram.com/samad_ab2/">@Samad_ab2</a></p>
-      <p>- by mail : absamad938@gmail.com</p>
+      <p>- by mail : samad.abdul.contact@gmail.com</p>
 
 <hr></hr>
 
