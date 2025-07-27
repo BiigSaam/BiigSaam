@@ -28,7 +28,7 @@
 - 💞️ I’m looking to collaborate on team work in many scripts
 - 📫 How to reach me :
 -      - by instagram : @Samad_ab2
--      - by mail : absamad938@gmail.com
+-      - by mail : samad.abdul.contact@gmail.com
 -  💻 I've create my blogsite, you can visit : https://portfolio-samadabdul.netlify.app/
 
 <!---
