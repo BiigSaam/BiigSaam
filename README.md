@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m @BiigSaam</h1>
-<p>I'm a student in 4th year of web coding. I'm looking for a 1-year work-study placement as a full-stack developer for July 2025.</p>
+<p>I'm a student in 5th year of web coding. I'm looking for a 1-year work-study placement as a full-stack developer for July 2025.</p>
 
 <hr></hr>
 
@@ -8,7 +8,7 @@
 <hr></hr>
 
 ## Programming languages in the process of learning
-![My Skills](https://skillicons.dev/icons?i=flutter,nestjs,vue,azure,dotnet)
+![My Skills](https://skillicons.dev/icons?i=flutter,nestjs,vue,azure,dotnet,java)
 <hr></hr>
 
 ## Technology that I use 
